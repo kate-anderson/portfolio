@@ -28,6 +28,26 @@
             <p class="gap-sides"><small>I will officially be a college graduate in May 2018. It is just one short semester away! Crazy, I know. I will have a BBA in Business Analytics and Information Systems (focusing in the Information Systems) along with a minor in Computer Science. If you couldn't tell from my degree, I love to code! Coding is frustrating and rewarding. I also like photography and traveling. Browse through the rest of my site to learn more!</small></p>
         </div>
         
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <img src="resume.png" alt="resume icon" class="img-responsive center-block" style="width: 100px">
+                    <h4>Resume</h4>
+                    <p>Go ahead, take a look. You might want to hire me!</p>
+                </div>
+                <div class="col-sm-4">
+                    <img src="keyboard.png" alt="keyboard icon" class="img-responsive center-block" style="width: 100px">
+                    <h4>Coding Examples</h4>
+                    <p>Here you will find projects that I have worked on in a variety of languages.</p>
+                </div>
+                <div class="col-sm-4">
+                    <img src="hobbies.png" alt="heart icon" class="img-responsive center-block" style="width: 100px">
+                    <h4>Hobbies</h4>
+                    <p>This pages tells you about a few of my hobbies along with some pictures.</p>
+                </div>
+            </div>
+        </div>
+        
         <%@ include file="includes/footer.jsp" %>
     </body>
 </html>
