@@ -27,5 +27,7 @@
             <hr class="my-4">
             <p class="gap-sides"><small>I will officially be a college graduate in May 2018. It is just one short semester away! Crazy, I know. I will have a BBA in Business Analytics and Information Systems (focusing in the Information Systems) along with a minor in Computer Science. If you couldn't tell from my degree, I love to code! Coding is frustrating and rewarding. I also like photography and traveling. Browse through the rest of my site to learn more!</small></p>
         </div>
+        
+        <%@ include file="includes/footer.jsp" %>
     </body>
 </html>
