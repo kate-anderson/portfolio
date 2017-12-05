@@ -19,8 +19,8 @@
                 <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Coding Examples<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Salary Calculator</a></li>
-                        <li><a href="#">Database Application</a></li>
+                        <li><a href="./HW3/salaryCalculator/web/index.jsp">Salary Calculator</a></li>
+                        <li><a href="/familyApp/">Database Application</a></li>
                         <li><a href="#">Task Manager</a></li>
                         <li><a href="#">Grade Calculator</a></li>
                     </ul>
