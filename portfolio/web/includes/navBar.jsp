@@ -19,13 +19,13 @@
                 <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Coding Examples<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Salary Calculator</a></li>
+                        <li><a href="./salaryCalc.jsp">Salary Calculator</a></li>
                         <li><a href="#">Database Application</a></li>
                         <li><a href="#">Task Manager</a></li>
                         <li><a href="#">Grade Calculator</a></li>
                     </ul>
                 </li>
-                <li><a href="#">Hobbies</a></li>
+                <li><a href="hobbies.jsp">Hobbies</a></li>
             </ul>
 	</div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
