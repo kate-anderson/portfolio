@@ -12,12 +12,12 @@
 	</div>
 
 	<!-- Collect the nav links, forms, and other content for toggling -->
-	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="nav navbar-nav navbar-right">
-		<li class="active"><a href="./index.jsp">Home</a></li>
+		<li><a href="./index.jsp">Home</a></li>
 		<li><a href="./includes/resume.pdf">Resume</a></li>
                 <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Coding Examples<span class="caret"></span></a>
+                    <a class="dropdown-toggle" href="temp.jsp">Coding Samples<span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="./salaryCalc.jsp">Salary Calculator</a></li>
                         <li><a href="#">Database Application</a></li>

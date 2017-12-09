@@ -9,13 +9,38 @@
 	<link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
 	<link rel="stylesheet" type="text/css" href="style.css" />
         
-        <title>Kate's Hobbies</title>
+        <title>Salary Calculator</title>
     </head>
     <body>
         <%@ include file="includes/navBar.jsp" %>
         
-        <h1>Page is under construction</h1>
+        <div class="jumbotron jumbotron-fluid myJumbotron"> <!-- header div -->
+            <h1 class="gap-sides">Salary Calculator</h1>
+            <p class="gap-sides">This was my very first web application. It was created using the NetBeans development environment and published through a TomCat Server that was used for all homework assignments. Salary Calculator is a two page web application that enables employees to estimate their net pay for the week.</p>
+            <p class="gap-sides"><small>Below are screen shots of the two pages as well as a link to the project.</small></p>
+        </div>
+
+        <br>
         
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <img src="#" alt="index.jsp" class="img-responsive center-block img-circle" style="width: 250px">
+                    <h4 class='text-center'>index.jsp</h4>
+                </div>
+                <div class="col-sm-4">
+                    <img src="#" alt="results.jsp" class="img-responsive center-block img-circle" style="width: 250px">
+                    <h4 class='text-center'>results.jsp</h4>
+                </div>
+                <div class="col-sm-4">
+                    <a href="#">
+                        <img src="https://img.clipartxtras.com/f060b82827bdad837a23b6806f81ce65_image-of-book-clipart-1-algebra-free-clipartoons-wikiclipart-algebra-book-clipart_946-970.jpeg" alt="calculator" class="img-responsive center-block img-circle" style="width: 250px">
+                        <h4 class='text-center'>Salary Calculator</h4>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <br><br><br>
         <%@ include file="includes/footer.jsp" %>
     </body>
 </html>
