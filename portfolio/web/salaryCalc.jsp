@@ -25,15 +25,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-4">
-                    <img src="#" alt="index.jsp" class="img-responsive center-block img-circle" style="width: 250px">
+                    <img src="photos/index.JPG" alt="index.jsp" class="img-responsive center-block img-circle" style="width: 250px">
                     <h4 class='text-center'>index.jsp</h4>
                 </div>
                 <div class="col-sm-4">
-                    <img src="#" alt="results.jsp" class="img-responsive center-block img-circle" style="width: 250px">
+                    <img src="photos/results.JPG" alt="results.jsp" class="img-responsive center-block img-circle" style="width: 250px">
                     <h4 class='text-center'>results.jsp</h4>
                 </div>
                 <div class="col-sm-4">
-                    <a href="#">
+                    <a href="http://f17-msci3300-02.azurewebsites.net/HW3/salaryCalculator/web/index.jsp">
                         <img src="https://img.clipartxtras.com/f060b82827bdad837a23b6806f81ce65_image-of-book-clipart-1-algebra-free-clipartoons-wikiclipart-algebra-book-clipart_946-970.jpeg" alt="calculator" class="img-responsive center-block img-circle" style="width: 250px">
                         <h4 class='text-center'>Salary Calculator</h4>
                     </a>

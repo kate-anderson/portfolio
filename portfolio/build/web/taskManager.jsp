@@ -89,7 +89,7 @@
                     </a>
                 </div>
                 <div class="col-sm-4">
-                    <a href="#">
+                    <a href="http://f17-msci3300-g4.azurewebsites.net/Task_Manager/">
                         <img src="photos/sddTaskManagerLogo.png" alt="" class="img-responsive center-block img-circle" style="width: 250px">
                         <h4 class='text-center'>Task Manager</h4>
                     </a>
