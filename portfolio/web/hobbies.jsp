@@ -18,6 +18,7 @@
         <%@ include file="includes/navBar.jsp" %>
         <div class="jumbotron jumbotron-fluid myJumbotron"> <!-- header div -->
             <h1 class="gap-sides">Learn About Me!</h1>
+            <hr class="my-4">
             <p class="gap-sides">I love to travel and stay active! I love trying new things and taking adventures. I am outgoing and friendly. I also love photography.</p>
             <p class="gap-sides"><small>Below are some pictures of me and my favorite things.</small></p>
         </div>

@@ -16,6 +16,7 @@
         
         <div class="jumbotron jumbotron-fluid myJumbotron"> <!-- header div -->
             <h1 class="gap-sides">Various Code</h1>
+            <hr class="my-4">
             <p class="gap-sides">Here is a variety of projects done in different coding languages.</p>
             <p class="gap-sides"><small>Below are links to the code files that are located on my GitHub account.</small></p>
         </div>

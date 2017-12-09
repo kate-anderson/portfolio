@@ -16,6 +16,7 @@
         
         <div class="jumbotron jumbotron-fluid myJumbotron"> <!-- header div -->
             <h1 class="gap-sides">Task Manager</h1>
+            <hr class="my-4">
             <p class="gap-sides">This was a group project in my Software Design and Development class.</p>
             <p class="gap-sides"><small>Below are screen shots of the two pages as well as a link to the project.</small></p>
         </div>
