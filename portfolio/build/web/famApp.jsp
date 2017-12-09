@@ -43,7 +43,7 @@
                     </a>
                 </div>
                 <div class="col-sm-3">
-                    <a href="#">
+                    <a href="http://f17-msci3300-02.azurewebsites.net/familyApp/">
                         <img src="photos/family.JPG" alt="family" class="img-responsive center-block img-circle" style="width: 250px">
                         <h4 class='text-center'>Family Application</h4>
                     </a>
