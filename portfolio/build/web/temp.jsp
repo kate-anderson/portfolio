@@ -18,6 +18,7 @@
         <br><br><br>
         <div>
             <a href="salaryCalc.jsp">Salary Calc</a>
+            <a href="famApp.jsp">Family App</a>
         </div>
         <br><br><br>
         
