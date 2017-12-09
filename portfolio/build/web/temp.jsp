@@ -22,6 +22,8 @@
             <a href="famApp.jsp">Family App</a>
             <br>
             <a href="taskManager.jsp">Task Manager</a>
+            <br>
+            <a href="code.jsp">Various Code</a>
         </div>
         <br><br><br>
         
