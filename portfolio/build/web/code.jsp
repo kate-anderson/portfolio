@@ -16,7 +16,7 @@
         
         <div class="jumbotron jumbotron-fluid myJumbotron"> <!-- header div -->
             <h1 class="gap-sides">Various Code</h1>
-            <p class="gap-sides">Here is a variety of projects done in different coding languages.</p>
+            <p class="gap-sides">Here is a variety of projects done in various coding languages.</p>
             <p class="gap-sides"><small>Below are links to the code files that are located on my GitHub account.</small></p>
         </div>
 
@@ -33,9 +33,9 @@
                 </div>
                 <div class="col-sm-6">
                     <a href="https://github.com/kate-anderson/hangman">
-                        <img src="http://channels.roku.com/images/c4d0146ba6b34c068341249e3fe3d8f4-hd.jpg" alt="" class="img-responsive center-block img-circle" style="width: 250px">
+                        <img src="http://speakspeak.com/wp-content/uploads/2014/11/hangman-speakspeak-3-610x415.jpg" alt="" class="img-responsive center-block img-circle" style="width: 250px">
                         <h4 class='text-center'>Hangman (Java)</h4>
-                        <p><small>This was a group final project for my Business Programming class.</small></p>
+                        <p><small>This was a partner project for my Business Programming class. We have a Test.java file that calls Utilities.java which implements the different methods required to setup and play the game.</small></p>
                     </a>
                 </div>
             </div>

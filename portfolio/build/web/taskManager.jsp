@@ -16,8 +16,8 @@
         
         <div class="jumbotron jumbotron-fluid myJumbotron"> <!-- header div -->
             <h1 class="gap-sides">Task Manager</h1>
-            <p class="gap-sides">This was a group project in my Software Design and Development class.</p>
-            <p class="gap-sides"><small>Below are screen shots of the two pages as well as a link to the project.</small></p>
+            <p class="gap-sides">This was a team project in my Software Design and Development class. Only our group had complete functionality and did not use a Bootstrap template.</p>
+            <p class="gap-sides"><small>Below are links to PDF files of documents used in the Planning and Analysis stages of the Software Development Life Cycle, as well as a link to the project.</small></p>
         </div>
 
         <br>
