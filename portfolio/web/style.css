@@ -11,6 +11,14 @@ hr{
 }
 body{background-color: #eee;}
 
+/* the border around my pic on the homepage */
+.imgBorder{
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
 /* footer */
 body{background-color: #fff;}
 

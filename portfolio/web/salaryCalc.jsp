@@ -18,6 +18,7 @@
         
         <div class="jumbotron jumbotron-fluid myJumbotron"> <!-- header div -->
             <h1 class="gap-sides">Salary Calculator</h1>
+            <hr class="my-4">
             <p class="gap-sides">This was my very first web application. It was created using the NetBeans development environment and published through a TomCat Server that was used for all homework assignments. Salary Calculator is a two page web application that enables employees to estimate their net pay for the week.</p>
             <p class="gap-sides"><small>Below are screen shots of the two pages as well as a link to the project.</small></p>
         </div>

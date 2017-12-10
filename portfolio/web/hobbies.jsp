@@ -17,6 +17,7 @@
         <%@ include file="includes/navBar.jsp" %>
         <div class="jumbotron jumbotron-fluid myJumbotron"> <!-- header div -->
             <h1 class="gap-sides">Learn About Me!</h1>
+            <hr class="my-4">
             <p class="gap-sides">I love taking adventures, trying new challenges and dabbling in photography. You will find me outgoing, inventive, motivated and knowledgeable.</p>
             <p class="gap-sides"><small>See below for fun and engaging activities I have participated in.</small></p>
         </div>
@@ -26,7 +27,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-4">
-                    <img src="photos/paddleBoarding.jpg" alt="paddle boarding" class="img-responsive center-block img-circle" style="width: 250px">
+                    <img src="photos/paddleBoarding.jpg" alt="paddle boarding" class="img-responsive center-block img-circle imgBorder" style="width: 250px">
                     <h4 class='text-center'>Paddle Boarding</h4>
                     <p class='text-center'><small>A fun and relaxing way to enjoy the outdoors on the water.</small></p>
                 </div>

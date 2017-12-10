@@ -18,6 +18,7 @@
         
         <div class="jumbotron jumbotron-fluid myJumbotron"> <!-- header div -->
             <h1 class="gap-sides">Task Manager</h1>
+            <hr class="my-4">
             <p class="gap-sides">This was a team project in my Software Design and Development class. Only our group had complete functionality and did not use a Bootstrap template.</p>
             <p class="gap-sides"><small>Below are links to PDF files of documents used in the Planning and Analysis stages of the Software Development Life Cycle, as well as a link to the project.</small></p>
         </div>
@@ -85,8 +86,8 @@
                     </a>
                 </div>
                 <div class="col-sm-4">
-                    <a href="#">
-                        <img src="#" alt="" class="img-responsive center-block img-circle" style="width: 250px">
+                    <a href="includes/burndown.jpg">
+                        <img src="photos/burndown.jpg" alt="" class="img-responsive center-block img-circle" style="width: 250px">
                         <h4 class='text-center'>Burndown Chart</h4>
                     </a>
                 </div>
