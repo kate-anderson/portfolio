@@ -12,11 +12,26 @@ hr{
 body{background-color: #eee;}
 
 /* the border around my pic on the homepage */
-.imgBorder{
-    border-color: green;
-    border-width: 10px;
+.gray-border{
+    border-color: gray;
+    border-width: 2px;
     border-style: solid;
     border-radius: 50%;
+}
+/* border for all other pictures*/
+.light-gray-border{
+    border-color: lightgray;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color:gray;
 }
 
 /* footer */

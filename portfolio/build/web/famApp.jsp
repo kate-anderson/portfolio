@@ -29,25 +29,25 @@
             <div class="row">
                 <div class="col-sm-3">
                     <a href="includes/hw4.pdf">
-                        <img src="photos/read.JPG" alt="part one" class="img-responsive center-block img-circle" style="width: 250px">
+                        <img src="photos/read.JPG" alt="part one" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                         <h4 class='text-center'>Part One</h4>
                     </a>
                 </div>
                 <div class="col-sm-3">
                     <a href="includes/add_delete.pdf">
-                        <img src="photos/addDelete.JPG" alt="part two" class="img-responsive center-block img-circle" style="width: 250px">
+                        <img src="photos/addDelete.JPG" alt="part two" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                         <h4 class='text-center'>Part Two</h4>
                     </a>
                 </div>
                 <div class="col-sm-3">
                     <a href="includes/updateSearch.pdf">
-                        <img src="photos/update.JPG" alt="part three" class="img-responsive center-block img-circle" style="width: 250px">
+                        <img src="photos/update.JPG" alt="part three" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                         <h4 class='text-center'>Part Three</h4>
                     </a>
                 </div>
                 <div class="col-sm-3">
                     <a href="http://f17-msci3300-02.azurewebsites.net/familyApp/">
-                        <img src="photos/family.JPG" alt="family" class="img-responsive center-block img-circle" style="width: 250px">
+                        <img src="photos/family.JPG" alt="family" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                         <h4 class='text-center'>Family Application</h4>
                     </a>
                 </div>

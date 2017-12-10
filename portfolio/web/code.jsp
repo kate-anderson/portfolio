@@ -29,14 +29,14 @@
             <div class="row">
                 <div class="col-sm-6">
                     <a href="https://github.com/kate-anderson/Grades">
-                        <img src="https://s3.amazonaws.com/libapps/accounts/10102/images/a_plus_grade_written_in_red_pe_450.jpg" alt="" class="img-responsive center-block img-circle" style="width: 250px">
+                        <img src="https://s3.amazonaws.com/libapps/accounts/10102/images/a_plus_grade_written_in_red_pe_450.jpg" alt="" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                         <h4 class='text-center'>Grade Calculator (C)</h4>
                         <p><small>This was an assignment for Engineering Problem Solving 2. The program takes data from 3 files to compute the final grades for over 400 students. Each student's grade consist of a quiz, exam, and homeworks (with the lowest dropped). Final grades are written to a file and the average homework scores are printed to the screen.</small></p>
                     </a>
                 </div>
                 <div class="col-sm-6">
                     <a href="https://github.com/kate-anderson/hangman">
-                        <img src="http://speakspeak.com/wp-content/uploads/2014/11/hangman-speakspeak-3-610x415.jpg" alt="" class="img-responsive center-block img-circle" style="width: 250px">
+                        <img src="http://speakspeak.com/wp-content/uploads/2014/11/hangman-speakspeak-3-610x415.jpg" alt="" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                         <h4 class='text-center'>Hangman (Java)</h4>
                         <p><small>This was a partner project for my Business Programming class. We have a Test.java file that calls Utilities.java which implements the different methods required to setup and play the game.</small></p>
                     </a>

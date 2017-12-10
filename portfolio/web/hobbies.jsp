@@ -27,17 +27,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-4">
-                    <img src="photos/paddleBoarding.jpg" alt="paddle boarding" class="img-responsive center-block img-circle imgBorder" style="width: 250px">
+                    <img src="photos/paddleBoarding.jpg" alt="paddle boarding" class="img-responsive center-block img-circle imgBorder light-gray-border" style="width: 250px">
                     <h4 class='text-center'>Paddle Boarding</h4>
                     <p class='text-center'><small>A fun and relaxing way to enjoy the outdoors on the water.</small></p>
                 </div>
                 <div class="col-sm-4">
-                    <img src="photos/caving.JPG" alt="caving" class="img-responsive center-block img-circle" style="width: 250px">
+                    <img src="photos/caving.JPG" alt="caving" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                     <h4 class='text-center'>Caving</h4>
                     <p class='text-center'><small>I tried this for the first time in Colorado with my brother. I really enjoyed it and want to go again.</small></p>
                 </div>
                 <div class="col-sm-4">
-                    <img src="photos/golfing.jpg" alt="golfing" class="img-responsive center-block img-circle" style="width: 250px">
+                    <img src="photos/golfing.jpg" alt="golfing" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                     <h4 class='text-center'>Golfing</h4>
                     <p class='text-center'><small> Growing up, my family always enjoyed golfing. When I get the chance, I return to the course for a round or two.</small></p>
                 </div>
@@ -45,17 +45,17 @@
             <br>
             <div class="row">
                 <div class="col-sm-4">
-                    <img src="photos/travel.jpg" alt="traveling" class="img-responsive center-block img-circle" style="width: 250px">
+                    <img src="photos/travel.jpg" alt="traveling" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                     <h4 class='text-center'>Traveling</h4>
                     <p class='text-center'><small>Traveling both domestic and international expands my horizons and invigorates me.</small></p>
                 </div>
                 <div class="col-sm-4">
-                    <img src="photos/skii.jpg" alt="paddle boarding" class="img-responsive center-block img-circle" style="width: 250px">
+                    <img src="photos/skii.jpg" alt="paddle boarding" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                     <h4 class='text-center'>Skiing</h4>
                     <p class='text-center'><small>Winter sports are a blast. Skiing is a great way to get outside and stay active.</small></p>
                 </div>
                 <div class="col-sm-4">
-                    <img src="photos/sailing.JPG" alt="heart icon" class="img-responsive center-block img-circle" style="width: 250px">
+                    <img src="photos/sailing.JPG" alt="heart icon" class="img-responsive center-block img-circle light-gray-border" style="width: 250px">
                     <h4 class='text-center'>Sailing</h4>
                     <p class='text-center'><small>As a member of the University of Iowa Sailing Club and race team, you will find me on the water during the spring and summer months.</small></p>
                 </div>

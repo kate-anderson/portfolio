@@ -19,7 +19,7 @@
         <div class="jumbotron jumbotron-fluid myJumbotron"> <!-- header div -->
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3"><!-- image -->
-                    <span class="border"><img src="photos/kate.JPG" alt="Kate Anderson" class="img-responsive img-circle pull-right gap-top" style="width:200px"></span>
+                    <span class="border"><img src="photos/kate.JPG" alt="Kate Anderson" class="img-responsive img-circle pull-right gap-top gray-border" style="width:200px"></span>
                 </div>
                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 gap-top">
                     <h1 class="h1-responsive mb-3 blue-text">Hello!</h1>
