@@ -23,11 +23,11 @@
                 </div>
                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 gap-top">
                     <h1 class="h1-responsive mb-3 blue-text">Hello!</h1>
-                    <p class="lead">My name is Kate and I am a student at the University of Iowa, aspiring to be a Full Stack Web Developer.</p>
+                    <p class="lead">My name is Kate and I am a University of Iowa undergrad, aspiring to be a Full Stack Web Developer.</p>
                 </div>
             </div>
             <hr class="my-4">
-            <p class="gap-sides"><small>I will officially be a college graduate in May 2018. It is just one short semester away! Crazy, I know. I will have a BBA in Business Analytics and Information Systems (focusing in the Information Systems) along with a minor in Computer Science. If you couldn't tell from my degree, I love to code! Coding is frustrating and rewarding. I also like photography and traveling. Browse through the rest of my site to learn more!</small></p>
+            <p class="gap-sides"><small>I will officially be a college graduate in May 2018. It is just one short semester away! Crazy, I know. I will have a BBA in Business Analytics and Information Systems (focusing in the Information Systems) along with a minor in Computer Science. If you couldn't tell from my degree, I love to code! Coding is frustrating, yet rewarding. I also enjoy photography and traveling. Browse through this site to learn more!</small></p>
         </div>
         
         <div class="container">
@@ -35,12 +35,12 @@
                 <div class="col-sm-4">
                     <img src="photos/keyboard.png" alt="keyboard icon" class="img-responsive center-block" style="width: 100px">
                     <h4 class='text-center'>Work</h4>
-                    <p class='text-center'>Here you will find projects that I have worked on in a variety of languages.</p>
+                    <p class='text-center'>Projects created in a variety of languages.</p>
                 </div>
                 <div class="col-sm-4">
                     <img src="photos/resume.png" alt="resume icon" class="img-responsive center-block" style="width: 100px">
                     <h4 class='text-center'>Resume</h4>
-                    <p class='text-center'>Go ahead, take a look. You might want to hire me! The link will take you to a PDF version of my resume.</p>
+                    <p class='text-center'>Take a look. I would be an awesome addition to your company. The link is a PDF version of my resume.</p>
                 </div>
                 <div class="col-sm-4">
                     <img src="photos/hobbies.png" alt="heart icon" class="img-responsive center-block" style="width: 100px">
