@@ -9,6 +9,8 @@
         <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="style.css" />
         
+        <script src="https://use.fontawesome.com/919cb8aeeb.js"></script>
+        
         <title>Kate Anderson</title>
     </head>
     <body>
@@ -21,7 +23,7 @@
                 </div>
                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 gap-top">
                     <h1 class="h1-responsive mb-3 blue-text">Hello!</h1>
-                    <p class="lead">My name is Kate and I am a student at the University of Iowa.</p>
+                    <p class="lead">My name is Kate and I am a student at the University of Iowa, aspiring to be a Full Stack Web Developer.</p>
                 </div>
             </div>
             <hr class="my-4">
@@ -31,19 +33,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-4">
-                    <img src="photos/resume.png" alt="resume icon" class="img-responsive center-block" style="width: 100px">
-                    <h4>Resume</h4>
-                    <p>Go ahead, take a look. You might want to hire me! The link will take you to a PDF version of my resume.</p>
+                    <img src="photos/keyboard.png" alt="keyboard icon" class="img-responsive center-block" style="width: 100px">
+                    <h4 class='text-center'>Work</h4>
+                    <p class='text-center'>Here you will find projects that I have worked on in a variety of languages.</p>
                 </div>
                 <div class="col-sm-4">
-                    <img src="photos/keyboard.png" alt="keyboard icon" class="img-responsive center-block" style="width: 100px">
-                    <h4>Coding Examples</h4>
-                    <p>Here you will find projects that I have worked on in a variety of languages.</p>
+                    <img src="photos/resume.png" alt="resume icon" class="img-responsive center-block" style="width: 100px">
+                    <h4 class='text-center'>Resume</h4>
+                    <p class='text-center'>Go ahead, take a look. You might want to hire me! The link will take you to a PDF version of my resume.</p>
                 </div>
                 <div class="col-sm-4">
                     <img src="photos/hobbies.png" alt="heart icon" class="img-responsive center-block" style="width: 100px">
-                    <h4>Hobbies</h4>
-                    <p>This pages tells you about a few of my hobbies along with some pictures.</p>
+                    <h4 class='text-center'>Hobbies</h4>
+                    <p class='text-center'>This pages tells you about a few of my hobbies along with some pictures.</p>
                 </div>
             </div>
         </div>

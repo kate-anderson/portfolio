@@ -9,6 +9,8 @@
         <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="style.css" />
         
+        <script src="https://use.fontawesome.com/919cb8aeeb.js"></script>
+        
         <title>Task Manager</title>
     </head>
     <body>

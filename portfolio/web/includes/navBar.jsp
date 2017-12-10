@@ -13,10 +13,9 @@
 	<!-- Collect the nav links, forms, and other content for toggling -->
 	<div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">
-		<li><a href="./index.jsp">Home</a></li>
-		<li><a href="./includes/resume.pdf">Resume</a></li>
+		<li><a href="./index.jsp">About</a></li>
                 <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Coding Samples<span class="caret"></span></a>
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Work<span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="./salaryCalc.jsp">Salary Calculator</a></li>
                         <li><a href="./famApp.jsp">Database Application</a></li>
@@ -24,6 +23,7 @@
                         <li><a href="./code.jsp">Various Code</a></li>
                     </ul>
                 </li>
+                <li><a href="./includes/resume.pdf">Resume</a></li>
                 <li><a href="hobbies.jsp">Hobbies</a></li>
             </ul>
 	</div><!-- /.navbar-collapse -->
